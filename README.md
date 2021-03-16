@@ -1,14 +1,2 @@
 # dkorpachev.github.io
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="https://code.s3.yandex.net/web-code/styles/lesson-3/vendor.css">
-
-  <!-- подключение файла стилей -->
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <button>COPY</button>
-</body>
-</html>
+<button>COPY</button>
