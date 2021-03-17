@@ -46,8 +46,8 @@ body {
   background-color: #00BFFF;
   color: white;
   position: relative;
-  max-width: 540px;
-  min-height: 100%;
+  max-width: 100%;
+  min-height: 1000px;
   margin: 0 auto;
   font-family: 'Suisse';
   box-sizing: border-box;
