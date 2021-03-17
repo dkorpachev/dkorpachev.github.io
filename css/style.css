@@ -13,7 +13,8 @@ body {
 .header {
   height: 100vh;
   background-color: #eee;
-  background-image: url(https://southwestlab.com/wp-content/uploads/2018/04/project-3.jpg);
+  /* background-image: url(https://southwestlab.com/wp-content/uploads/2018/04/project-3.jpg); */
+  background-image: url(img/slid.jpg);
   background-size: cover;
   background-position: center;
   text-align: center; }
