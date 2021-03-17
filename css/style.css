@@ -19,6 +19,7 @@ html {
 }
 
 h1 {
+  text-align:center;
   margin-top:0;
  padding-top: 34px;
   margin-bottom: 0;
@@ -30,6 +31,7 @@ h1 {
   color: white;
 }
       h2 {
+        text-align:center;
   margin-top: 0;
   margin-bottom: 24px;
   font-size: 12px;
