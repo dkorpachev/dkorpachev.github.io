@@ -1,12 +1,3 @@
-      h1 {
-text-transform: uppercase; font-style: italic; font-size: 24px;
-}
-      h2 {
-font-size: 12px; text-transform: uppercase;
-      }  
-
-
-
 @font-face {
   src: url(https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Book.woff);
   font-family: 'Suisse';
@@ -19,6 +10,13 @@ font-size: 12px; text-transform: uppercase;
   font-family: 'Suisse';
   font-weight: bold;
 }
+      h1 {
+text-transform: uppercase; font-style: italic; font-size: 24px;
+}
+      h2 {
+font-size: 12px; text-transform: uppercase;
+      }  
+
 
 html {
   height: 100%;
