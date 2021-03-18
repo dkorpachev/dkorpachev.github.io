@@ -19,11 +19,12 @@ body {
   text-align: center; }
 
 .header-title {
+  margin: auto;
   font-size: 140px;
   color: #d7efff;
   text-transform: uppercase;
   font-weight: 500;
-  margin: auto }
+  }
 
 
 /* классы */
