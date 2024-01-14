@@ -13,8 +13,10 @@ body {
 .header {
   height: 30vh;
   background-color: #eee;
+  <!--
   background-image: url("../img/slide.jpg");
-  background-size: cover;
+-->  
+background-size: cover;
   background-position: center;
   text-align: center; }
 
